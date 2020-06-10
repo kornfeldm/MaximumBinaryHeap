@@ -2,7 +2,7 @@
 A C# implementation of a maximum binary heap contained within a class for easy reuse
 
 ### What is this project?
-This project is a C# implementation of a maximum binary heap done as a personal project. It was originally programmed in December 2019 and uploaded to GitHub in June 2020. The maximum binary heap itself is contained in one class (HeapType.cs) and a second class (HeapTest.cs) to test the heap is also included for demonstrative purposes. I have released it under the MIT license to allow for flexability in reuse. 
+This project is a C# implementation of a maximum binary heap done as a personal project using Visual Studio 2019. It was originally programmed in December 2019 and uploaded to GitHub in June 2020. The maximum binary heap itself is contained in one class (HeapType.cs) and a second class (HeapTest.cs) to test the heap is also included for demonstrative purposes. I have released it under the MIT license to allow for flexability in reuse. 
 
 ### What functionality can HeapType.cs offer?
 
@@ -56,6 +56,9 @@ Below are screenshots of this project in use. These screenshots were taken from 
 ![Game_Screenshot](Screenshots/ClearHeap.PNG)
 
 *The interface to remove all values from the heap*
+
+### How Can I Download and Use This Project?
+This is a Visual Studio 2019 project. To view or edit the project itself, open the project file (the .sln file) in Visual Studio. Alternatively, the HeapType class can be added to an existing project as it can function independently.
 
 ### References
 
